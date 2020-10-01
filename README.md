@@ -2,6 +2,7 @@ We have a [new website](radare.org/)!
 If you want to contribute, have a look at the [repository](https://github.com/radareorg/radare.org)!
 
 [~old website link~](http://radare2s-website.readthedocs.io)
+its a very intresting and new project 
 
 # How to build documentation html pages
 
